@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/sakura/work/testApp/testApp.csproj": {}
+    "/home/sakura/git/FileCheck/testApp/testApp.csproj": {}
   },
   "projects": {
-    "/home/sakura/work/testApp/testApp.csproj": {
+    "/home/sakura/git/FileCheck/testApp/testApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/sakura/work/testApp/testApp.csproj",
+        "projectUniqueName": "/home/sakura/git/FileCheck/testApp/testApp.csproj",
         "projectName": "testApp",
-        "projectPath": "/home/sakura/work/testApp/testApp.csproj",
+        "projectPath": "/home/sakura/git/FileCheck/testApp/testApp.csproj",
         "packagesPath": "/home/sakura/.nuget/packages/",
-        "outputPath": "/home/sakura/work/testApp/obj/",
+        "outputPath": "/home/sakura/git/FileCheck/testApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/sakura/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sJrmxI+fSgeDhawsvDsgnFGql9xXDTUaAQCY1UQigeGWJffyujOJaOUhlsJqK2Tp7asNOX7GCfQfQ2mJh0rOIA==",
+  "dgSpecHash": "dwbQgfNgKAOSB91ss9DluWJRTC1RV2oDHPu9zAdSmVM276gTpxGahilqlP2z00K6hkejtoJGRiATxqKqnvbdAQ==",
   "success": true,
-  "projectFilePath": "/home/sakura/work/testApp/testApp.csproj",
+  "projectFilePath": "/home/sakura/git/FileCheck/testApp/testApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

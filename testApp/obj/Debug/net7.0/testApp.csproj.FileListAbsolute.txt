@@ -1,0 +1,15 @@
+/home/sakura/git/FileCheck/testApp/obj/Debug/net7.0/testApp.csproj.AssemblyReference.cache
+/home/sakura/git/FileCheck/testApp/obj/Debug/net7.0/testApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/sakura/git/FileCheck/testApp/obj/Debug/net7.0/testApp.AssemblyInfoInputs.cache
+/home/sakura/git/FileCheck/testApp/obj/Debug/net7.0/testApp.AssemblyInfo.cs
+/home/sakura/git/FileCheck/testApp/obj/Debug/net7.0/testApp.csproj.CoreCompileInputs.cache
+/home/sakura/git/FileCheck/testApp/bin/Debug/net7.0/testApp
+/home/sakura/git/FileCheck/testApp/bin/Debug/net7.0/testApp.deps.json
+/home/sakura/git/FileCheck/testApp/bin/Debug/net7.0/testApp.runtimeconfig.json
+/home/sakura/git/FileCheck/testApp/bin/Debug/net7.0/testApp.dll
+/home/sakura/git/FileCheck/testApp/bin/Debug/net7.0/testApp.pdb
+/home/sakura/git/FileCheck/testApp/obj/Debug/net7.0/testApp.dll
+/home/sakura/git/FileCheck/testApp/obj/Debug/net7.0/refint/testApp.dll
+/home/sakura/git/FileCheck/testApp/obj/Debug/net7.0/testApp.pdb
+/home/sakura/git/FileCheck/testApp/obj/Debug/net7.0/testApp.genruntimeconfig.cache
+/home/sakura/git/FileCheck/testApp/obj/Debug/net7.0/ref/testApp.dll

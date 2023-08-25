@@ -15,7 +15,8 @@ namespace ConsoleApplication1
                 return;
             }
 
-            var varFileList = Directory.GetFiles(varFilePath, "*.txt");
+
+            var varFileList = Directory.GetFiles(varFilePath, "*",SearchOption.AllDirectories);
 
             var cntFileList = varFileList.Length;
 
@@ -29,6 +30,7 @@ namespace ConsoleApplication1
 
             }
 
+            Console.WriteLine("ファイル件数：" + cntFileList);
             Console.WriteLine("処理終了");
             return;
 
